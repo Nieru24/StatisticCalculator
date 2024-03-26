@@ -1,0 +1,13 @@
+D:\Visual Studio Project\DataManagement\DataManagement\bin\Debug\DataManagement.exe.config
+D:\Visual Studio Project\DataManagement\DataManagement\bin\Debug\DataManagement.exe
+D:\Visual Studio Project\DataManagement\DataManagement\bin\Debug\DataManagement.pdb
+D:\Visual Studio Project\DataManagement\DataManagement\bin\Debug\DataManagement.xml
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.vbproj.AssemblyReference.cache
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.Form1.resources
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.Resources.resources
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.vbproj.GenerateResource.cache
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.exe
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.xml
+D:\Visual Studio Project\DataManagement\DataManagement\obj\Debug\DataManagement.pdb
